@@ -1,0 +1,3 @@
+This is my first file SO please this is empty It doesn't have anything.
+To create user mail gobally-----   git config --global user.mail "Newmail@gmail.com"
+To create user name localy -----   git config user.name "AnyName"
